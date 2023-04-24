@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "checkingwordpresentornot", "checkingwordpresentornot\checkingwordpresentornot.csproj", "{8EA61CA8-3701-49B7-96D6-CF8DD17D0FAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EA61CA8-3701-49B7-96D6-CF8DD17D0FAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EA61CA8-3701-49B7-96D6-CF8DD17D0FAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EA61CA8-3701-49B7-96D6-CF8DD17D0FAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EA61CA8-3701-49B7-96D6-CF8DD17D0FAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EFDEEAE-DD00-4BBE-9657-4E817B250EA4}
+	EndGlobalSection
+EndGlobal
